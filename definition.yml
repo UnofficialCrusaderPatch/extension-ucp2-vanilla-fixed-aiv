@@ -1,6 +1,5 @@
 name: ucp2-vanilla-fixed-aiv
-display-name: ucp2-vanilla-fixed-aiv-applied
-display-name: "Vanilla Fixed Castles"
+display-name: "Vanilla Fixed Castles Applied"
 author: Evrey & UCP-Team
 version: 2.15.1
 dependencies:
